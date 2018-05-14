@@ -10,4 +10,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+  condition = Shoe.new
+  condition = "new"
+
 end
