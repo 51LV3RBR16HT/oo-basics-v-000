@@ -11,5 +11,5 @@ class Shoe
   end
 
   shoe.cobble = "new"
-  shoe.cobble
+
 end
